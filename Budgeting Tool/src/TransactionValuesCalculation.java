@@ -1,4 +1,7 @@
 // Class to calculate various transaction values
+
+import java.util.List;
+
 public class TransactionValuesCalculation {
     
     // Method to calculate the total incomes from a list of transactions
